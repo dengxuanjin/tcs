@@ -1,5 +1,6 @@
 # tcs
 java 编写的一个简易的贪吃蛇
+# 运行文件名字为Main.java
 其主要原理是使用了一些键盘和鼠标在画布上的监听器来控制他们的一些操作
 使用这个时你需要先注册账号密码
 数据库名字为:shop 表名为:sh_goods 字段为:account,password1,name

@@ -4,6 +4,7 @@ java 编写的一个简易的贪吃蛇
 其主要原理是使用了一些键盘和鼠标在画布上的监听器来控制他们的一些操作
 使用这个时你需要先注册账号密码
 数据库名字为:shop 表名为:sh_goods 字段为:account,password1,name
+你还需要配置好自己的数据库连接器
 ![image](https://user-images.githubusercontent.com/94524168/224614350-e99adcab-e776-473e-b252-6d3a4c978cff.png)
 ![image](https://user-images.githubusercontent.com/94524168/224614411-b7d051c4-9e80-4c28-bdd2-f10f5dcaa12d.png)
 注册完之后直接登陆就行了，我没做太多约束所以账号密码只要为字符串就行
